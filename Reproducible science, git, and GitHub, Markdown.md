@@ -80,4 +80,4 @@ Export this as a tab-delimited `.csv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
-[Link to my .csv file here](https://github.com/kristenabe/tfcb-homework01/blob/main/survey_data_tidy.csv)
+[Link to my .csv file here](https://github.com/kristenabe/tfcb-homework01/blob/main/Survey%20Data%20Files/survey_data_tidy.csv)
