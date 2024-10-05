@@ -17,7 +17,8 @@ Here I have added the images in this directory to demonstrate my ability to add 
 ![Image of Acanthomyrmex ferox](https://github.com/kristenabe/tfcb-homework01/blob/main/Images/Acanthomyrmex-ferox_casent0901788_p_1_high.jpg)
 
 ## Tables
-Here I have added a table to demonstrate my ability to create lists in a markdown file. 
-| Class | Days | Time |
+Here I have added a table to demonstrate my ability to create tables in a markdown file. 
+| Class | Days | Start Time |
 |:-----:|:----:|:----:|
-| MCB 536 | Tuesday and Thursday | 3:30 to 4:50 |
+| MCB 536 | Tuesday and Thursday | 3:30 pm |
+| PATH 550 | Monday and Wednesday | 9:00 am |
