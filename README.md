@@ -2,6 +2,7 @@
 
 ## Links
 Here I am demonstrating my ability to use links in a markdown file. 
+
 [Link to the Fred Hutch website](https://fredhutch.org/en.html)
 
 ## Lists
@@ -9,8 +10,8 @@ Here I have added a list to demonstrate my ability to create lists in a markdown
 - one
 - two
 - three
-    - 3a
-    - 3b
+    - three a
+    - three b
 
 ## Images
 Here I have added the images in this directory to demonstrate my ability to add images to a markdown file.
