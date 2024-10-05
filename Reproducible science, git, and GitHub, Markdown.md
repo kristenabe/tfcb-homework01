@@ -1,4 +1,4 @@
- # Homework 1
+# Kristen Abe Homework 1 Oct. 5, 2024
 
 This homework will assess your ability to use GitHub, organize projects, and apply tidy data principles, and represents content covered in lecture 3. Fill this README.md document with your answers below and upload this file to Canvas.
 
